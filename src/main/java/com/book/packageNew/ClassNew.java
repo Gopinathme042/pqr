@@ -11,6 +11,7 @@ public class ClassNew {
 		else {
 			System.out.println(num+" is Odd number");
 			Thread.sleep(3000);
+			Thread.sleep(3000);
 		}
 
 	}
